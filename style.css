@@ -78,7 +78,7 @@ main {
 }
 .section-head {
   display: flex;
-  margin-bottom: 1em;
+  margin-bottom: 1.5em;
 }
 .section img {
   border-radius: 50%;
@@ -160,7 +160,7 @@ main {
   .section {
     width: 22vw;
     border-radius: 10px;
-    height: 230px;
+    height: 225px;
   }
   .verify {
     text-align: left;
@@ -182,8 +182,5 @@ main {
   }
   .section {
     width: 20vw;
-  }
-  .section-head {
-    margin-bottom: 2em;
   }
 }
