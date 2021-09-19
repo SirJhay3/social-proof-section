@@ -118,9 +118,14 @@ section img {
     height: 26vh;
     margin-top: 10px;
   }
-  
+  .intro h1 {
+    width: 300px;
+  }
+  .intro-p {
+    width: 350px;
+  }
   .ratings {
-    width: 40vw;
+    width: 450px;
     height: unset;
   }
   .rating {
@@ -129,12 +134,19 @@ section img {
     align-items: center;
     height: 7vh;
     width: 90%;
+    justify-content: center;
   }
   .rating div {
-    margin: 0 10px;
+    margin-right: 20px;
   }
   .rating p {
     margin: unset;
+  }
+  .stars {
+    align-self: flex-start;
+  }
+  .stars div {
+    margin-left: -30px;
   }
   .report {
     align-self: center;
@@ -171,22 +183,6 @@ section img {
   }
   section {
     width: 20vw;
-  }
-  .intro {
-    width: 450px;
-  }
-  .intro h1 {
-    width: 300px;
-  }
-  .intro-p {
-    width: 400px;
-  }
-  .ratings {
-    width: 450px;
-  }
-  .rating {
-    width: 80%;
-    justify-content: space-around;
   }
   .reviews {
     height: 40vh;
