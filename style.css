@@ -158,7 +158,7 @@ main {
     justify-content: space-between;
   }
   .section {
-    width: 230px;
+    width: 22vw;
     border-radius: 10px;
     height: 230px;
   }
@@ -185,8 +185,5 @@ main {
   }
   .section-head {
     margin-bottom: 2em;
-  }
-  .reviews {
-    height: 40vh;
   }
 }
