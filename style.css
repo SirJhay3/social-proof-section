@@ -26,7 +26,7 @@ body {
   
 }
 main {
-  width: 375px;
+  width: 320px;
   max-width: 90%;
   padding: 1em;
   text-align: center;
@@ -173,22 +173,20 @@ section img {
     width: 20vw;
   }
   .intro {
-    width: 30vw;
+    width: 450px;
   }
   .intro h1 {
-    width: 65%;
+    width: 300px;
   }
   .intro-p {
-    width: 25vw;
+    width: 400px;
   }
   .ratings {
-    width: 32vw;
+    width: 450px;
   }
   .rating {
     width: 80%;
-  }
-  .rating div {
-    margin: 0 15px;
+    justify-content: space-around;
   }
   .reviews {
     height: 40vh;
